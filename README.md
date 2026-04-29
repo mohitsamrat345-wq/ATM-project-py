@@ -44,7 +44,7 @@ ATM-Project/
 
 1. Clone the repository:
    
-   git clone https://github.com/mohitsamrat345-wq/ATM-Project.git
+   git clone https://github.com/mohitsamrat345-wq/ATM-Project-py.git
 
 2. Navigate to the folder:
    
